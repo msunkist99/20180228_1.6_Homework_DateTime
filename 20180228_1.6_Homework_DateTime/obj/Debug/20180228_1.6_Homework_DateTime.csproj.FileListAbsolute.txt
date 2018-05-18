@@ -1,0 +1,7 @@
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_DateTime\20180228_1.6_Homework_DateTime\bin\Debug\20180228_1.6_Homework_DateTime.exe.config
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_DateTime\20180228_1.6_Homework_DateTime\bin\Debug\20180228_1.6_Homework_DateTime.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_DateTime\20180228_1.6_Homework_DateTime\bin\Debug\20180228_1.6_Homework_DateTime.pdb
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_DateTime\20180228_1.6_Homework_DateTime\obj\Debug\20180228_1.6_Homework_DateTime.csprojResolveAssemblyReference.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_DateTime\20180228_1.6_Homework_DateTime\obj\Debug\20180228_1.6_Homework_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_DateTime\20180228_1.6_Homework_DateTime\obj\Debug\20180228_1.6_Homework_DateTime.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_DateTime\20180228_1.6_Homework_DateTime\obj\Debug\20180228_1.6_Homework_DateTime.pdb
